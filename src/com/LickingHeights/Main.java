@@ -15,7 +15,7 @@ public class Main {
                 secondNumber =10;
                 total = firstNumber+secondNumber;
                 System.out.println(total);
-                total = total + 10;
+                total = total+10;
                 System.out.println(total);
 
 
